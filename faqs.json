@@ -1,0 +1,210 @@
+{
+  "greetings": [
+    {
+      "keywords": ["hi", "hello", "hey", "good day", "greetings"],
+      "response": "Hello! I’m the Barangay 76-A assistant. I can help with the website, services, certificate requests, login steps, and project details."
+    },
+    {
+      "keywords": ["good morning", "good afternoon", "good evening"],
+      "response": "Good day! I’m here to help you with the Barangay 76-A portal, local services, and system information."
+    },
+    {
+      "keywords": ["how are you", "how are you doing", "how do you do"],
+      "response": "I’m doing well, thank you! I’m here to answer questions about the Barangay 76-A system and website."
+    },
+    {
+      "keywords": ["thank you", "thanks", "thank u"],
+      "response": "You’re welcome! Let me know if you need help with the portal, services, or barangay records."
+    },
+    {
+      "keywords": ["bye", "goodbye", "see you later"],
+      "response": "Goodbye! Feel free to return anytime if you need more help with the Barangay 76-A website or system."
+    }
+  ],
+  "general": [
+    {
+      "keywords": ["who are you", "what are you", "what can you do", "who is this"],
+      "response": "I’m your local Barangay 76-A assistant. I can answer basic questions, explain the website, and guide you through services like resident login, certificates, and project information."
+    },
+    {
+      "keywords": ["can you help me", "help me", "need help"],
+      "response": "Absolutely. I can help with website navigation, resident access, certificate requests, complaints, and information about the Barangay 76-A system."
+    },
+    {
+      "keywords": ["what is your name", "your name"],
+      "response": "I’m the Barangay 76-A online assistant. I’m here to help visitors and residents understand the portal and its services."
+    },
+    {
+      "keywords": ["good night", "have a nice day", "take care"],
+      "response": "Thank you! Take care and come back anytime if you need help with the barangay website or services."
+    }
+  ],
+  "website": [
+    {
+      "question": "What services does this website offer?",
+      "answer": "The portal offers resident access, official and admin dashboard access, barangay announcements, issue submission, document and certificate requests, ordinance viewing, and public service information for Barangay 76-A."
+    },
+    {
+      "question": "How do I navigate the site?",
+      "answer": "Use the homepage to choose the Resident Portal, Officials & Staff portal, or Administrator access. Each area leads to the relevant pages for login, records, approvals, and system functions."
+    },
+    {
+      "question": "How do I create a resident account?",
+      "answer": "Go to the Resident Portal from the landing page and select Create Resident Account. Fill out the required details, verify your information, and complete the registration process."
+    },
+    {
+      "question": "How do I log in as a resident?",
+      "answer": "Open the Resident Portal on the home page, enter your registered email or resident credentials, and sign in with your password to access resident services and issue tracking."
+    },
+    {
+      "question": "How do I request a certificate or document?",
+      "answer": "Residents can use the resident portal to access certificate-related modules or submission pages, fill in the required details, and follow the request flow provided by the system."
+    },
+    {
+      "question": "What are the contact details for the barangay?",
+      "answer": "The website provides official barangay access pages and contact information in the relevant service sections. For the most current phone numbers, office contacts, or email details, check the official contact or office information listed on the site."
+    },
+    {
+      "question": "What are the operating hours of the barangay office?",
+      "answer": "The portal itself is available online 24/7, while in-person services follow the barangay office schedule posted on the official site or available through the barangay office contact section."
+    },
+    {
+      "question": "How do I view barangay ordinances and resolutions?",
+      "answer": "Use the legislative or ordinance pages available from the resident or official modules to browse local ordinances, resolutions, and public barangay records."
+    },
+    {
+      "question": "How can I report a community issue?",
+      "answer": "Residents can submit a concern through the resident portal by providing the issue details, location, category, and supporting information so barangay staff can review and process it."
+    },
+    {
+      "question": "Can I track my issue status?",
+      "answer": "Yes. The portal includes tracking features so residents can monitor the status of their submitted issues from submission to review, assignment, and resolution updates."
+    },
+    {
+      "question": "Where can I find barangay announcements or news?",
+      "answer": "Announcements and updates are usually available from the portal’s main pages and resident dashboard, where official notices and important barangay updates are displayed."
+    },
+    {
+      "question": "What is the difference between resident, official, and admin access?",
+      "answer": "Resident access supports public services and account-based requests. Official access is for barangay staff and leaders to manage records and issue updates. Admin access provides system-level control, analytics, and user management."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is this project about?",
+      "answer": "This project is a web-based Barangay 76-A system that combines legislative information management and civic issue monitoring. It helps residents access barangay ordinances, submit concerns, and track updates in one centralized platform."
+    },
+    {
+      "question": "What problem does the project solve?",
+      "answer": "The system addresses the lack of organized digital records, delayed barangay responses, and poor tracking of civic issues. It replaces manual ledgers and fragmented processes with a centralized, transparent, and more efficient system."
+    },
+    {
+      "question": "Who are the developers?",
+      "answer": "The project was developed by Jerick Julian Chavez and Walnor G. Datu. It is supervised by adviser Gladys B. Joven, MIT."
+    },
+    {
+      "question": "Who are the system users?",
+      "answer": "The system is designed for three main user types: residents, barangay officials and staff, and system administrators. Residents can access information and submit concerns, while officials manage legislative records and issue resolutions."
+    },
+    {
+      "question": "What are the key features of the system?",
+      "answer": "The system includes resident registration and login, ordinance and resolution browsing, issue submission with photo and location details, real-time notifications, issue tracking, official dashboards, and admin analytics."
+    },
+    {
+      "question": "What is the technology stack used?",
+      "answer": "The system uses PHP for backend development, MySQL for the database, HTML, CSS, and JavaScript for the frontend, and XAMPP for local deployment. It was developed using Visual Studio Code on a Windows environment."
+    },
+    {
+      "question": "What are the objectives of the project?",
+      "answer": "The project aims to design a barangay-level web system that centralizes legislative records, supports civic issue reporting, improves transparency, and helps barangay officials manage community concerns efficiently."
+    },
+    {
+      "question": "What are the limitations of the system?",
+      "answer": "The system is scoped only for Barangay 76-A, Davao City. It focuses on barangay-level legislative and civic issue management and does not include financial, judicial, or other citywide governance functions."
+    },
+    {
+      "question": "How is it different from FixMyStreet?",
+      "answer": "FixMyStreet focuses mainly on civic reporting, while this system integrates legislative information management and civic issue monitoring into a single barangay solution. It is tailored specifically for local barangay operations and transparency."
+    },
+    {
+      "question": "What is the project scope?",
+      "answer": "The scope covers barangay records, resident profiling, public legislation access, issue reporting, monitoring, and staff-side resolution workflows for Barangay 76-A."
+    },
+    {
+      "question": "What school is this for?",
+      "answer": "This capstone project is for St. John Paul II College of Davao, College of Information and Communication Technology, under the Bachelor of Science in Information Technology program."
+    },
+    {
+      "question": "How does the system help residents?",
+      "answer": "Residents can register, view ordinances, report community issues, track the status of their concerns, and stay updated with barangay announcements and notifications."
+    },
+    {
+      "question": "How does the system help barangay officials?",
+      "answer": "Officials and staff can manage legislative data, assign civic issues to relevant committees, monitor progress, and use dashboards to improve public service and accountability."
+    },
+    {
+      "question": "What is the barangay name?",
+      "answer": "This system is for Barangay 76-A, located in Davao City."
+    },
+    {
+      "question": "What is Barangay 76-A?",
+      "answer": "Barangay 76-A is a local barangay in Davao City, and this project is designed to support its community services, legislative access, and civic issue monitoring needs."
+    },
+    {
+      "question": "What is the purpose of the barangay system?",
+      "answer": "The system aims to centralize barangay records and services so residents can access information, submit concerns, and follow up on community issues more efficiently and transparently."
+    },
+    {
+      "question": "What is the legislative information module?",
+      "answer": "The legislative information module stores barangay ordinances and resolutions in a searchable digital repository so residents and officials can access them easier than using physical files."
+    },
+    {
+      "question": "What is the civic issue monitoring module?",
+      "answer": "This module allows residents to submit local concerns such as drainage issues, illegal dumping, damaged roads, or safety concerns, while barangay staff monitor and resolve them."
+    },
+    {
+      "question": "Can residents submit issues online?",
+      "answer": "Yes. Residents can submit civic issues through the system, including details such as the issue type, location, description, and supporting photos."
+    },
+    {
+      "question": "Can residents view barangay laws and ordinances online?",
+      "answer": "Yes. The system provides a searchable archive of barangay ordinances and resolutions so residents can read and review local legislation more easily."
+    },
+    {
+      "question": "What module is used for ordinance management?",
+      "answer": "The legislative information module handles ordinance and resolution management, including storage, review, and searchable access to local laws."
+    },
+    {
+      "question": "What module is used for community concerns?",
+      "answer": "The civic issue monitoring module is used for submitting, tracking, and resolving community concerns from residents."
+    },
+    {
+      "question": "What is role-based access control?",
+      "answer": "Role-based access control is a way to limit system access based on a user’s role, such as resident, official, or administrator, to protect data and ensure proper responsibilities."
+    },
+    {
+      "question": "What are the expected benefits of the system?",
+      "answer": "Expected benefits include faster response to issues, better record management, improved public transparency, easier access to barangay ordinances, and stronger communication between residents and officials."
+    },
+    {
+      "question": "Who can access the resident dashboard?",
+      "answer": "Only registered residents can access the resident dashboard. Officials and administrators have separate role-based access depending on their responsibilities."
+    },
+    {
+      "question": "Who can access the official dashboard?",
+      "answer": "Barangay officials and staff can access the official dashboard to review records, monitor submitted issues, and manage updates and assignments."
+    },
+    {
+      "question": "Who manages the administrator dashboard?",
+      "answer": "The system administrator has full access to user management, analytics, and overall system control."
+    },
+    {
+      "question": "Does the system cover other cities or barangays?",
+      "answer": "No. The project is scoped specifically for Barangay 76-A and focuses on its local governance and civic monitoring needs."
+    },
+    {
+      "question": "Is this project connected to a cloud backend?",
+      "answer": "No. This local FAQ chatbot version runs offline without external APIs or online backend services, so it works entirely within the local environment."
+    }
+  ]
+}

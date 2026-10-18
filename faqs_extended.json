@@ -1,0 +1,106 @@
+[
+  {
+    "question": "What is Barangay 76-A?",
+    "answer": "Barangay 76-A is a local barangay in Davao City, and this project is designed to support its community services, legislative access, and civic issue monitoring needs."
+  },
+  {
+    "question": "What is the purpose of the barangay system?",
+    "answer": "The system aims to centralize barangay records and services so residents can access information, submit concerns, and follow up on community issues more efficiently and transparently."
+  },
+  {
+    "question": "What is the legislative information module?",
+    "answer": "The legislative information module stores barangay ordinances and resolutions in a searchable digital repository so residents and officials can access them easier than using physical files."
+  },
+  {
+    "question": "What is the civic issue monitoring module?",
+    "answer": "This module allows residents to submit local concerns such as drainage issues, illegal dumping, damaged roads, or safety concerns, while barangay staff monitor and resolve them."
+  },
+  {
+    "question": "Can residents submit issues online?",
+    "answer": "Yes. Residents can submit civic issues through the system, including details such as the issue type, location, description, and supporting photos."
+  },
+  {
+    "question": "Can residents view barangay laws and ordinances online?",
+    "answer": "Yes. The system provides a searchable archive of barangay ordinances and resolutions so residents can read and review local legislation more easily."
+  },
+  {
+    "question": "How is the system useful to the barangay?",
+    "answer": "It helps the barangay organize records, improve accountability, reduce manual processing delays, and create a more transparent way to handle public concerns and local governance."
+  },
+  {
+    "question": "What is the importance of transparency in the system?",
+    "answer": "Transparency helps residents understand how concerns are addressed, how legislation is managed, and how decisions are tracked by the barangay officials and staff."
+  },
+  {
+    "question": "Who can access the resident dashboard?",
+    "answer": "Only registered residents can access the resident dashboard. Officials and administrators have separate role-based access depending on their responsibilities."
+  },
+  {
+    "question": "Who can access the official dashboard?",
+    "answer": "Barangay officials and staff can access the official dashboard to review records, monitor submitted issues, and manage updates and assignments."
+  },
+  {
+    "question": "Who manages the administrator dashboard?",
+    "answer": "The system administrator has full access to user management, analytics, and overall system control."
+  },
+  {
+    "question": "What problems were common before the system?",
+    "answer": "Before the system, barangay records were often kept manually, which resulted in delays, poor tracking, limited transparency, and difficulty in coordinating concerns and legislative actions."
+  },
+  {
+    "question": "What is the goal of the project?",
+    "answer": "The goal is to build a digital barangay platform that improves public service, supports community participation, and makes local governance more organized and accessible."
+  },
+  {
+    "question": "Does the system cover other cities or barangays?",
+    "answer": "No. The project is scoped specifically for Barangay 76-A and focuses on its local governance and civic monitoring needs."
+  },
+  {
+    "question": "What are the expected benefits of the system?",
+    "answer": "Expected benefits include faster response to issues, better record management, improved public transparency, easier access to barangay ordinances, and stronger communication between residents and officials."
+  },
+  {
+    "question": "What module is used for ordinance management?",
+    "answer": "The legislative information module handles ordinance and resolution management, including storage, review, and searchable access to local laws."
+  },
+  {
+    "question": "What module is used for community concerns?",
+    "answer": "The civic issue monitoring module is used for submitting, tracking, and resolving community concerns from residents."
+  },
+  {
+    "question": "What is role-based access control?",
+    "answer": "Role-based access control is a way to limit system access based on a user’s role, such as resident, official, or administrator, to protect data and ensure proper responsibilities."
+  },
+  {
+    "question": "Why is the system important for barangay transparency?",
+    "answer": "It makes barangay information and public actions more accessible to residents, which builds trust and helps people understand how local government processes work."
+  },
+  {
+    "question": "What is the project title?",
+    "answer": "The capstone project is titled 'WEB-BASED SYSTEM FOR BARANGAY 76-A' and is also described as an Integrated Web-Based System for Barangay Legislative Information and Civic Issue Monitoring."
+  },
+  {
+    "question": "What does the system monitor?",
+    "answer": "The system monitors civic concerns such as infrastructure problems, environmental issues, safety reports, and other public complaints submitted by residents."
+  },
+  {
+    "question": "How does the system improve communication?",
+    "answer": "It provides a clear channel for residents to report concerns, and it allows barangay staff to update cases and notify residents on the status of their requests."
+  },
+  {
+    "question": "What kind of records are stored?",
+    "answer": "The system stores information such as resident profiles, barangay ordinances, resolutions, issue reports, related updates, and user activity records."
+  },
+  {
+    "question": "What are the project deliverables?",
+    "answer": "The project deliverables include a functional web application, database design, user interfaces for residents and officials, and a documentation package that explains the system development and features."
+  },
+  {
+    "question": "Is this project connected to a cloud backend?",
+    "answer": "No. This local FAQ chatbot version runs offline without external APIs or online backend services, so it works entirely within the local environment."
+  },
+  {
+    "question": "Is the system only for barangay records?",
+    "answer": "It mainly focuses on barangay records and community concern monitoring, but it integrates both legal information and service-related functions into one local system."
+  }
+]
